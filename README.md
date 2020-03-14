@@ -1,21 +1,21 @@
 # juliett
 /**
- *       ____  ____   ____________________
- *   __ / / / / / /  /  _/ __/_  __/_  __/
- *  / // / /_/ / /___/ // _/  / /   / /   
- *  \___/\____/____/___/___/ /_/   /_/    
- *                                                                                 
- *       
- *  Simplified middleware for data structures and asynchronous request coordination.
- *
- *  ECMAScript 6 compatible.  
- *                          
- *  Spring'20
- * 
- *  Copyright (c) 2020 Caiuby Freitas
- * 
- *  Release on MIT License
- * 
+        ____  ____   ____________________
+    __ / / / / / /  /  _/ __/_  __/_  __/
+   / // / /_/ / /___/ // _/  / /   / /   
+   \___/\____/____/___/___/ /_/   /_/    
+                                                                                  
+        
+   Simplified middleware for data structures and asynchronous request coordination.
+ 
+   ECMAScript 6 compatible.  
+                           
+   Spring'20
+  
+   Copyright (c) 2020 Caiuby Freitas
+  
+   Release on MIT License
+  
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
     in the Software without restriction, including without limitation the rights
@@ -33,5 +33,5 @@
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
- *   
- */
+    
+ 
