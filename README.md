@@ -2,11 +2,9 @@
         
 Content-centric abstraction layer for data exchange and asynchronous requests coordination.
 
-   ECMAScript 6 compatible.  
+   Copyright (c) 2020 Caiuby Freitas 
 
-   Spring'20
-
-   Copyright (c) 2020 Caiuby Freitas
+   Version Spring'20 ECMAScript 6 compatible. 
 
    Release on MIT License
   
