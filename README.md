@@ -1,12 +1,5 @@
 # juliett
 
- /**
- *        ____  ____   ____________________
- *   __ / / / / / /  /  _/ __/_  __/_  __/
- *  / // / /_/ / /___/ // _/  / /   / /   
- *  \___/\____/____/___/___/ /_/   /_/    
- *                                                                                 
- *       
  *  Simplified middleware for data structures and asynchronous request coordination.
  *
  *  ECMAScript 6 compatible.  
@@ -35,4 +28,4 @@
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
   *
-  */
+ 
