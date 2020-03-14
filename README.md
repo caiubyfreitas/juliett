@@ -1,13 +1,13 @@
 # juliett                                                               
         
-   Content-centric abstraction layer for data exchange and asynchronous requests coordination.
- 
+Content-centric abstraction layer for data exchange and asynchronous requests coordination.
+
    ECMAScript 6 compatible.  
-                           
+
    Spring'20
-  
+
    Copyright (c) 2020 Caiuby Freitas
-  
+
    Release on MIT License
   
     Permission is hereby granted, free of charge, to any person obtaining a copy
