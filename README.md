@@ -1,12 +1,6 @@
-# juliett
-/**
-        ____  ____   ____________________
-    __ / / / / / /  /  _/ __/_  __/_  __/
-   / // / /_/ / /___/ // _/  / /   / /   
-   \___/\____/____/___/___/ /_/   /_/    
-                                                                                  
+# juliett                                                               
         
-   Simplified middleware for data structures and asynchronous request coordination.
+   Content-centric abstraction layer for data exchange and asynchronous requests coordination.
  
    ECMAScript 6 compatible.  
                            
@@ -33,5 +27,4 @@
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
-    
- 
+   
