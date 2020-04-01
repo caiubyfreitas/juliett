@@ -1,6 +1,6 @@
 # juliett                                                               
         
-Class-based abstraction layer for UI view control and data exchange with asynchronous requests coordination.
+Class-based abstraction layer for UI view controlling and data exchange with asynchronous requests coordination.
 
    Copyright (c) 2020 Caiuby Freitas 
 
