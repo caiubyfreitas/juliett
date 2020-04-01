@@ -1,6 +1,6 @@
 # juliett                                                               
         
-Content-centric abstraction layer for data exchange and asynchronous requests coordination.
+Class-based abstraction layer for UI view control and data exchange with asynchronous requests coordination.
 
    Copyright (c) 2020 Caiuby Freitas 
 
